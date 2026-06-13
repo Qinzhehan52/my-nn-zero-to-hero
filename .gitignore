@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# 数据 / 模型权重(体积大,不入库)
+data/
+*.pt
+*.pth
+*.bin
+
+# 环境
+.venv/
+venv/
